@@ -1,4 +1,4 @@
-<img width="1982" height="1510" alt="image" src="https://github.com/user-attachments/assets/30662b20-9701-43c4-9ba5-0bf9bb3fad1d" />
+
 # Portafolio de Análisis de Datos | Martín Alfaro Ossandón
 
 Ingeniero Civil Industrial, mención Informática, especializado en Control de Gestión, Business Intelligence y Analítica Operacional.
@@ -42,10 +42,13 @@ Desarrollo soluciones que transforman datos en información útil para evaluar d
 
 ---
 
+
 ## Formación y certificaciones
 
 - **Ingeniería Civil Industrial, mención Informática** — Universidad de La Frontera (2023).
 - **Especialidad en Análisis de Datos** — Talento Digital para Chile / Desafío Latam (2026). [Ver credencial verificada](https://acred.it/CAyrB)
+
+---
 
 ## Contacto
 
