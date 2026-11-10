@@ -44,4 +44,10 @@ Desarrollo soluciones que transforman datos en información útil para evaluar d
 
 ## Contacto
 
+
+## Formación y certificaciones
+
+- **Ingeniería Civil Industrial, mención Informática** — Universidad de La Frontera (2023).
+- **Especialidad en Análisis de Datos** — Talento Digital para Chile / Desafío Latam (2026). [Ver credencial verificada](https://acred.it/CAyrB)
+
 [LinkedIn](https://www.linkedin.com/in/martin-alfaro-ossandon/) · [GitHub](https://github.com/M4RTT1N) · m.alfarossandon@gmail.com
